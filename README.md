@@ -1,6 +1,6 @@
 # gitTutorialTest
 
-This is a test of Git features where we use the command line (Terminal) to work with GitHub repositories:
+This is a test of Git features where we use the command line (_Terminal_) to work with GitHub repositories:
 * Git Clone [url]
 * Git Status
 * Git Add [filename]
